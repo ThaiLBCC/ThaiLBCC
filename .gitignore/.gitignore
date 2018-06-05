@@ -1,0 +1,371 @@
+<!doctype html>
+<html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:website="http://ogp.me/ns/website" lang="en-US" itemscope itemtype="http://schema.org/WebPage"  class="touch-styles" data-authenticated-account>
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <!-- This is Squarespace. --><!-- bluebird-corn -->
+<base href="">
+<meta charset="utf-8" />
+<title>ooo</title>
+<link rel="shortcut icon" type="image/x-icon" href="https://static.squarespace.com/universal/default-favicon.ico"/>
+<link rel="canonical" href="https://bluebird-corn.squarespace.com/"/>
+<meta property="og:site_name" content="ooo"/>
+<meta property="og:title" content="Work"/>
+<meta property="og:url" content="https://bluebird-corn.squarespace.com/"/>
+<meta property="og:type" content="website"/>
+<meta property="og:description" content="COSW20 LBCC"/>
+<meta itemprop="name" content="Work"/>
+<meta itemprop="url" content="https://bluebird-corn.squarespace.com/"/>
+<meta itemprop="description" content="COSW20 LBCC"/>
+<meta name="twitter:title" content="Work"/>
+<meta name="twitter:url" content="https://bluebird-corn.squarespace.com/"/>
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:description" content="COSW20 LBCC"/>
+<meta name="description" content="COSW20 LBCC" />
+<script type="text/javascript" src="//use.typekit.net/ik/6RMVRMDCAKLn-bLaBNSc1hiPaPjqGYGbYYGKFW93kYCfenMffFHN4UJLFRbh52jhWDmKwQZq52qXF29aFDZ8wQwDFAsRwhwUwyTTHKoKdYm8jc8kZfuRda40O1FUiABkZWF3jAF8OcFzdPUKdYm8jc8kZfuRda40O1FUiABkZWF3jAF8OcFzdPUCdhFydeyzSabCiaiaOc4CiAmK-W4qOAFzSct0SaBujW48Sagyjh90jhNlJ68ciWsuScIlSYbKgcmuScN3jPG4fJZmIMMjMkMfH6qJyB9bMg6IJMJ7fbRxmgMMeM96MKG4fJBmIMMjgkMfH6qJyu9bMg6JJMJ7fbKMmsMMeMv6MKG4fJ4mIMMjIPMfH6qJ7WqbMs62JMJ7fbK7psMgeMb6MKG4fHyoIMIjgkMfH6GJttjgIMIj2PMfH6GJojjgIMIjIPMfqMemCizjgb.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<script type="text/javascript">SQUARESPACE_ROLLUPS = {};</script>
+<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//static.squarespace.com/universal/scripts-compressed/common-ffa4e6b79cfada0d6a9b-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
+<script crossorigin="anonymous" src="//static.squarespace.com/universal/scripts-compressed/common-ffa4e6b79cfada0d6a9b-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//static.squarespace.com/universal/scripts-compressed/polyfills-2d2df33e686cc758cf4f-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-polyfills');</script>
+<script crossorigin="anonymous" src="//static.squarespace.com/universal/scripts-compressed/polyfills-2d2df33e686cc758cf4f-min.en-US.js" ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","rollups":{"squarespace-announcement-bar":{"css":"//static.squarespace.com/universal/styles-compressed/announcement-bar-d41d8cd98f00b204e9800998ecf8427e-min.css","js":"//static.squarespace.com/universal/scripts-compressed/announcement-bar-121382fcb1a8305d11b7-min.en-US.js"},"squarespace-audio-player":{"css":"//static.squarespace.com/universal/styles-compressed/audio-player-6c42d60d26f4e09ab1ac335b4bc55b7e-min.css","js":"//static.squarespace.com/universal/scripts-compressed/audio-player-11da1fd3f040e44802df-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//static.squarespace.com/universal/styles-compressed/blog-collection-list-d41d8cd98f00b204e9800998ecf8427e-min.css","js":"//static.squarespace.com/universal/scripts-compressed/blog-collection-list-2012f7fe5cfdedeff51b-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//static.squarespace.com/universal/styles-compressed/calendar-block-renderer-56713b1663346e1fe5b31a3adb8f31fc-min.css","js":"//static.squarespace.com/universal/scripts-compressed/calendar-block-renderer-115751e47ccf33527d11-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//static.squarespace.com/universal/styles-compressed/chartjs-helpers-9935a41d63cf08ca108505d288c1712e-min.css","js":"//static.squarespace.com/universal/scripts-compressed/chartjs-helpers-77f762dbf97a0a848036-min.en-US.js"},"squarespace-comments":{"css":"//static.squarespace.com/universal/styles-compressed/comments-c32adaffffa61675d5f238e2ea399b2b-min.css","js":"//static.squarespace.com/universal/scripts-compressed/comments-37a4c6274d1cfa4cf90c-min.en-US.js"},"squarespace-commerce-cart":{"js":"//static.squarespace.com/universal/scripts-compressed/commerce-cart-3c7e0518062653d77d63-min.en-US.js"},"squarespace-dialog":{"css":"//static.squarespace.com/universal/styles-compressed/dialog-05cf073fc485af865b2e5554077a850a-min.css","js":"//static.squarespace.com/universal/scripts-compressed/dialog-b41526011d0966d9d775-min.en-US.js"},"squarespace-events-collection":{"css":"//static.squarespace.com/universal/styles-compressed/events-collection-56713b1663346e1fe5b31a3adb8f31fc-min.css","js":"//static.squarespace.com/universal/scripts-compressed/events-collection-e3aa453289653a82ecee-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//static.squarespace.com/universal/scripts-compressed/form-rendering-utils-df66ead3e672261b4320-min.en-US.js"},"squarespace-forms":{"css":"//static.squarespace.com/universal/styles-compressed/forms-4af1b5b3c288ba939ea861fe2d37119a-min.css","js":"//static.squarespace.com/universal/scripts-compressed/forms-dc401d3ad9eb05f96aef-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//static.squarespace.com/universal/styles-compressed/gallery-collection-list-d41d8cd98f00b204e9800998ecf8427e-min.css","js":"//static.squarespace.com/universal/scripts-compressed/gallery-collection-list-d41d95e2f9ad38b86cc4-min.en-US.js"},"squarespace-image-zoom":{"css":"//static.squarespace.com/universal/styles-compressed/image-zoom-ae974921915aeccaff8ad60c60e19c31-min.css","js":"//static.squarespace.com/universal/scripts-compressed/image-zoom-b1e96ccfc3f82863ac70-min.en-US.js"},"squarespace-pinterest":{"css":"//static.squarespace.com/universal/styles-compressed/pinterest-d41d8cd98f00b204e9800998ecf8427e-min.css","js":"//static.squarespace.com/universal/scripts-compressed/pinterest-6a12c7f6c89c995bfcaf-min.en-US.js"},"squarespace-popup-overlay":{"css":"//static.squarespace.com/universal/styles-compressed/popup-overlay-6b891e5f689f032ce65af5855c067b4f-min.css","js":"//static.squarespace.com/universal/scripts-compressed/popup-overlay-a7cd1bdb5d2185166cd8-min.en-US.js"},"squarespace-product-quick-view":{"css":"//static.squarespace.com/universal/styles-compressed/product-quick-view-9abaaa4dfff182aa8d4ccf3b6ffdbe8d-min.css","js":"//static.squarespace.com/universal/scripts-compressed/product-quick-view-f4665b37411a78506e7c-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//static.squarespace.com/universal/styles-compressed/products-collection-item-v2-ae974921915aeccaff8ad60c60e19c31-min.css","js":"//static.squarespace.com/universal/scripts-compressed/products-collection-item-v2-9c166cf9326e8c2abcf9-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//static.squarespace.com/universal/styles-compressed/products-collection-list-v2-ae974921915aeccaff8ad60c60e19c31-min.css","js":"//static.squarespace.com/universal/scripts-compressed/products-collection-list-v2-fcf242eeb37136b990f0-min.en-US.js"},"squarespace-search-page":{"css":"//static.squarespace.com/universal/styles-compressed/search-page-9c747eeaabe96dacfea4932a63336f54-min.css","js":"//static.squarespace.com/universal/scripts-compressed/search-page-3ae4f2fbfaecb74b3da2-min.en-US.js"},"squarespace-search-preview":{"js":"//static.squarespace.com/universal/scripts-compressed/search-preview-c895577943fb3287ddf4-min.en-US.js"},"squarespace-share-buttons":{"js":"//static.squarespace.com/universal/scripts-compressed/share-buttons-a501f8456a1902e43efc-min.en-US.js"},"squarespace-simple-liking":{"css":"//static.squarespace.com/universal/styles-compressed/simple-liking-09fa291ec2800c97714f0d157fd0a6ca-min.css","js":"//static.squarespace.com/universal/scripts-compressed/simple-liking-c2f54977beb8890daf6c-min.en-US.js"},"squarespace-social-buttons":{"css":"//static.squarespace.com/universal/styles-compressed/social-buttons-7a696232d1cd101fd62b5f174f9ae6ff-min.css","js":"//static.squarespace.com/universal/scripts-compressed/social-buttons-826f2f71f7c5bb446750-min.en-US.js"},"squarespace-tourdates":{"css":"//static.squarespace.com/universal/styles-compressed/tourdates-d41d8cd98f00b204e9800998ecf8427e-min.css","js":"//static.squarespace.com/universal/scripts-compressed/tourdates-30a2005831e6f85e9fa8-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//static.squarespace.com/universal/styles-compressed/website-overlays-manager-923311a5ffb05ecb734ddfc7d9be08bc-min.css","js":"//static.squarespace.com/universal/scripts-compressed/website-overlays-manager-6e755b4c34cf08ce9ceb-min.en-US.js"}},"pageType":1,"website":{"id":"5b16d89445776e1335dc3c12","identifier":"bluebird-corn","websiteType":1,"contentModifiedOn":1528237807740,"cloneable":false,"siteStatus":{"value":3,"expiration":1529433492468},"language":"en-US","timeZone":"America/Los_Angeles","machineTimeZoneOffset":-25200000,"timeZoneOffset":-25200000,"timeZoneAbbr":"PDT","siteTitle":"ooo","siteTagLine":"THAI","siteDescription":{"html":"<p>COSW20 is the best course that i have got an experience </p>","raw":false},"shareButtonOptions":{"1":true,"3":true,"4":true,"7":true,"2":true,"8":true,"6":true,"5":true},"authenticUrl":"https://bluebird-corn.squarespace.com","internalUrl":"https://bluebird-corn.squarespace.com","baseUrl":"https://bluebird-corn.squarespace.com","sslSetting":3,"isHstsEnabled":false,"createdOn":1528223892468,"templateId":"52a74dafe4b073a80cd253c5","installationId":"5b16d89445776e1335dc3c26","templateWebsiteId":"5310cef7e4b08602cbfa36bf","hasPassword":false,"typekitId":"","contributorLimit":2147483647,"productLimit":2147483647,"mobilePortfolioEnabled":true,"canUseDeveloperSDK":true,"canUseCommerce":false,"canUseAdvancedCommerce":true,"pageLimit":2147483647,"statsMigrated":false,"imageMetadataProcessingEnabled":false,"revalidateBefore":1528234784481},"websiteSettings":{"id":"5b16d89445776e1335dc3c14","websiteId":"5b16d89445776e1335dc3c12","subjects":[],"country":"US","state":"CA","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"storeSettings":{"returnPolicy":{"raw":false},"termsOfService":{"raw":false},"privacyPolicy":{"raw":false},"storeMailingList":{"connected":false,"list":"","useSingleOptIn":false},"stockLevelAlertLimit":5,"orderHeader":"","paymentSettings":{},"expressCheckout":false,"continueShoppingLinkUrl":"/","testModeOn":true,"useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"multipleQuantityAllowedForServices":true,"nextOrderId":1,"currenciesSupported":["CHF","HKD","MXN","EUR","DKK","USD","CAD","MYR","NOK","THB","AUD","SGD","ILS","PLN","GBP","CZK","SEK","NZD","PHP","RUB"],"defaultCurrency":"USD","selectedCurrency":"USD","shipStationConnectionSettings":{"passwordConfigured":false},"measurementStandard":1,"xeroSetupComplete":false,"showCustomCheckoutForm":false,"enableMailingListOptInByDefault":false,"isApplePayEnabled":false,"sameAsRetailLocation":false,"isLive":false},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false},"cookieSettings":{"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false},"websiteCloneable":false,"collection":{"title":"Work","id":"5b17018603ce642d99320ede","fullUrl":"/","type":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"aspect-ratio":"Auto","banner-slideshow-controls":"Arrows","gallery-arrow-style":"No Background","gallery-aspect-ratio":"3:2 Standard","gallery-auto-crop":"true","gallery-autoplay":"false","gallery-design":"Grid","gallery-info-overlay":"Show on Hover","gallery-loop":"false","gallery-navigation":"Bullets","gallery-show-arrows":"true","gallery-transitions":"Fade","galleryArrowBackground":"rgba(34,34,34,1)","galleryArrowColor":"rgba(255,255,255,1)","galleryAutoplaySpeed":"3","galleryCircleColor":"rgba(255,255,255,1)","galleryInfoBackground":"rgba(0, 0, 0, .7)","galleryThumbnailSize":"100px","gridSize":"280px","gridSpacing":"10px","logoContainerWidth":"150px","product-gallery-auto-crop":"false","product-image-auto-crop":"true","siteTitleContainerWidth":"220px"},"templateId":"52a74dafe4b073a80cd253c5","pageFeatures":[1,2,4],"authenticatedAccount":{"id":"5b16d893396f8cec97abfdfd","tutorialsCompleted":{"le2-welcome":true,"welcome":true},"notificationsRead":{},"lastLoginOn":1528223895359,"lastActiveOn":1528223895359,"isDeactivated":false,"deleted":false,"displayName":"Sam Jrdan","firstName":"Sam","lastName":"Jrdan","eligibleForMarketingDiscount":false,"emailVerified":false,"revalidateTimestamp":1528223891240,"roles":{},"systemGenerated":false,"email":"kiyoshiyuko@gmail.com","createdOn":1528223891224,"marketingId":"6ab94238-e22f-4bff-a9c4-076689136f29ji1xw8p6","editingSiteIds":["5b16d89445776e1335dc3c12"],"siteSubscriptions":[{"websiteId":"5b16d89445776e1335dc3c12","websiteName":"bluebird-corn","subscribed":true}],"storeSubscriptions":[{"websiteId":"5b16d89445776e1335dc3c12","websiteName":"bluebird-corn","subscribed":true}],"signupIPAddress":"66.214.45.147","emailAccount":true,"activatedAccount":true,"marketingUnsubscribes":{},"developerAccount":false,"pseudonymAccount":false,"locales":["en-US","en","km"],"preferredLocale":"en-US","forcePasswordReset":false},"authenticatedAccountWebsiteSettings":{"id":"5b16d897266c075e94949bd1"},"permissions":{"id":"5b16d89445776e1335dc3c15","websiteId":"5b16d89445776e1335dc3c12","memberAccountId":"5b16d893396f8cec97abfdfd","createdOn":1528223892474,"lastLoginOn":1528223895365,"lastActiveOn":1528224495264,"permissions":{"2":true,"1":true},"subscribed":true},"accessPermissions":[1215,14,1221,1,1416,1225,1411,1414,1514,1517,1515,18,1419,1510,1213,1311,1511,1610,1110,13,1415,1226,1217,1310,1224,1513,1111,1229,1420,1216,1412,1512,1516,12,1214,1810,0,1228,1612,1418,11,1210,1211,1222,1220,1417,1212,1410,1219,1223,1230,1611,15,1218,1413],"memberAccountNames":{"5b16d893396f8cec97abfdfd":{"displayName":"Sam Jrdan"}},"impersonatedSession":false,"demoCollections":[{"collectionId":"540e1941e4b084aa623896bb","deleted":true},{"collectionId":"540e1937e4b084aa623896a6","deleted":false},{"collectionId":"5310cf0ee4b05207a03b0c2e","deleted":true},{"collectionId":"5334840be4b0ce89f43449a9","deleted":true},{"collectionId":"5334844be4b08e81fa54dc33","deleted":false},{"collectionId":"533485d8e4b0ecb20d5c07bb","deleted":true},{"collectionId":"533495eae4b03ead0875e0b4","deleted":true},{"collectionId":"53359869e4b020b97b39550a","deleted":true},{"collectionId":"53359b91e4b0087e7694cfe7","deleted":true},{"collectionId":"540e0057e4b00b3e08760743","deleted":true},{"collectionId":"54107165e4b0335e669da978","deleted":true},{"collectionId":"540e1d25e4b0d6dca0c75795","deleted":true},{"collectionId":"540e0250e4b01f6b4731d770","deleted":true},{"collectionId":"53348419e4b0c39637af6e82","deleted":true}],"connectedAccounts":[],"isFacebookTab":false,"tzData":{"zones":[[-480,"US","P%sT",null]],"rules":{"US":[[1967,2006,null,"Oct","lastSun","2:00","0","S"],[1987,2006,null,"Apr","Sun>=1","2:00","1:00","D"],[2007,"max",null,"Mar","Sun>=8","2:00","1:00","D"],[2007,"max",null,"Nov","Sun>=1","2:00","0","S"]]}},"useNewImageLoader":true};</script><script type="text/javascript"> SquarespaceFonts.loadViaContext(); Squarespace.load(window);</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://bluebird-corn.squarespace.com/work?format=RSS" />
+<script type="application/ld+json">{"url":"https://bluebird-corn.squarespace.com","name":"ooo","description":"<p>COSW20 is the best course that i have got an experience </p>","@context":"http://schema.org","@type":"WebSite"}</script><!--[if gte IE 9]> <link rel="stylesheet" type="text/css" href="//static1.squarespace.com/static/sitecss/5b16d89445776e1335dc3c12/0/52a74dafe4b073a80cd253c5/5b16d89445776e1335dc3c26/1009-05142015/1528237511511/site.css?&filterFeatures=false&part=1"/><link rel="stylesheet" type="text/css" href="//static1.squarespace.com/static/sitecss/5b16d89445776e1335dc3c12/0/52a74dafe4b073a80cd253c5/5b16d89445776e1335dc3c26/1009-05142015/1528237511511/site.css?&filterFeatures=false&part=2"/><link rel="stylesheet" type="text/css" href="//static1.squarespace.com/static/sitecss/5b16d89445776e1335dc3c12/0/52a74dafe4b073a80cd253c5/5b16d89445776e1335dc3c26/1009-05142015/1528237511511/site.css?&filterFeatures=false&part=3"/><link rel="stylesheet" type="text/css" href="//static1.squarespace.com/static/sitecss/5b16d89445776e1335dc3c12/0/52a74dafe4b073a80cd253c5/5b16d89445776e1335dc3c26/1009-05142015/1528237511511/site.css?&filterFeatures=false&part=4"/><![endif]-->
+<!--[if lt IE 9]><link rel="stylesheet" type="text/css" href="//static1.squarespace.com/static/sitecss/5b16d89445776e1335dc3c12/0/52a74dafe4b073a80cd253c5/5b16d89445776e1335dc3c26/1009-05142015/1528237511511/site.css?&filterFeatures=false&noMedia=true&part=1"/><link rel="stylesheet" type="text/css" href="//static1.squarespace.com/static/sitecss/5b16d89445776e1335dc3c12/0/52a74dafe4b073a80cd253c5/5b16d89445776e1335dc3c26/1009-05142015/1528237511511/site.css?&filterFeatures=false&noMedia=true&part=2"/><link rel="stylesheet" type="text/css" href="//static1.squarespace.com/static/sitecss/5b16d89445776e1335dc3c12/0/52a74dafe4b073a80cd253c5/5b16d89445776e1335dc3c26/1009-05142015/1528237511511/site.css?&filterFeatures=false&noMedia=true&part=3"/><link rel="stylesheet" type="text/css" href="//static1.squarespace.com/static/sitecss/5b16d89445776e1335dc3c12/0/52a74dafe4b073a80cd253c5/5b16d89445776e1335dc3c26/1009-05142015/1528237511511/site.css?&filterFeatures=false&noMedia=true&part=4"/><![endif]-->
+<!--[if !IE]> --><link rel="stylesheet" type="text/css" href="//static1.squarespace.com/static/sitecss/5b16d89445776e1335dc3c12/0/52a74dafe4b073a80cd253c5/5b16d89445776e1335dc3c26/1009-05142015/1528237511511/site.css?&filterFeatures=false"/><!-- <![endif]-->
+<!-- End of Squarespace Headers -->
+    <script>/* Must be below squarespace-headers */(function(){var e='ontouchstart'in window||navigator.msMaxTouchPoints;var t=document.documentElement;if(!e&&t){t.className=t.className.replace(/touch-styles/,'')}})()
+    </script>
+  </head>
+
+  <body id="collection-5b17018603ce642d99320ede" class="transparent-header enable-nav-button nav-button-style-outline nav-button-corner-style-square banner-button-style-outline banner-button-corner-style-square banner-slideshow-controls-arrows meta-priority-category center-entry-title--meta  hide-list-entry-footer    hide-blog-sidebar center-navigation--info     event-thumbnails event-thumbnail-size-32-standard event-date-label event-date-label-time event-list-show-cats event-list-date event-list-time event-list-address   event-icalgcal-links  event-excerpts  event-item-back-link    gallery-design-grid aspect-ratio-auto lightbox-style-light gallery-navigation-bullets gallery-info-overlay-show-on-hover gallery-aspect-ratio-32-standard gallery-arrow-style-no-background gallery-transitions-fade gallery-show-arrows gallery-auto-crop   product-list-titles-under product-list-alignment-center product-item-size-11-square product-image-auto-crop product-gallery-size-11-square  show-product-price show-product-item-nav product-social-sharing newsletter-style-dark  opentable-style-light small-button-style-solid small-button-shape-square medium-button-style-outline medium-button-shape-square large-button-style-outline large-button-shape-square image-block-poster-text-alignment-center image-block-card-dynamic-font-sizing image-block-card-content-position-center image-block-card-text-alignment-left image-block-overlap-dynamic-font-sizing image-block-overlap-content-position-center image-block-overlap-text-alignment-left image-block-collage-dynamic-font-sizing image-block-collage-content-position-top image-block-collage-text-alignment-left image-block-stack-dynamic-font-sizing image-block-stack-text-alignment-left button-style-solid button-corner-style-square tweak-product-quick-view-button-style-floating tweak-product-quick-view-button-position-bottom tweak-product-quick-view-lightbox-excerpt-display-truncate tweak-product-quick-view-lightbox-show-arrows tweak-product-quick-view-lightbox-show-close-button tweak-product-quick-view-lightbox-controls-weight-light native-currency-code-usd collection-5b17018603ce642d99320ede collection-type-index collection-layout-default homepage view-list mobile-style-available has-banner-image index-page">
+    <a href="#" class="body-overlay"></a>
+    <div class="sqs-announcement-bar-dropzone"></div>
+    <div id="sidecarNav">
+      
+
+  <div id="mobileNavWrapper" class="nav-wrapper" data-content-field="navigation-mobileNav">
+    <nav id="mobileNavigation">
+      
+
+      
+        
+          
+          <div class="index active homepage">
+            <a href="/">
+              Work
+            </a>
+          </div>
+          
+        
+
+      
+        
+          
+          <div class="index">
+            <a href="/about-hayden/">
+              About
+            </a>
+          </div>
+          
+        
+
+      
+        
+          
+
+          
+          <div class="folder">
+            <div class="folder-toggle" data-href="/contact/">Contact</div>
+            <div class="subnav">
+            
+
+              
+              <div class="collection">
+                <a href="/new-page/">
+                  New Page
+                </a>
+              </div>
+              
+              
+            
+            </div>
+          </div>
+          
+        
+        
+
+      
+    </nav>
+  </div>
+
+
+
+    </div>
+    <div id="siteWrapper" class="clearfix">
+
+      <div class="sqs-cart-dropzone"></div>
+
+      <header id="header" class="show-on-scroll" data-offset-el=".index-section" data-offset-behavior="bottom" role="banner">
+        <div class="header-inner">
+          <div id="siteTitleWrapper" class="wrapper" data-content-field="site-title">
+            
+              <h1 id="siteTitle" class="site-title"><a href="/">ooo</a></h1>
+            
+          </div><!--
+          --><div class="mobile-nav-toggle"><div class="top-bar"></div><div class="middle-bar"></div><div class="bottom-bar"></div></div><div class="mobile-nav-toggle fixed-nav-toggle"><div class="top-bar"></div><div class="middle-bar"></div><div class="bottom-bar"></div></div><!--
+          --><div id="headerNav">
+
+  <div id="mainNavWrapper" class="nav-wrapper" data-content-field="navigation-mainNav">
+    <nav id="mainNavigation" data-content-field="navigation-mainNav">
+      
+
+      
+        
+          
+          <div class="index active homepage">
+            <a href="/">
+              Work
+            </a>
+          </div>
+          
+        
+
+      
+        
+          
+          <div class="index">
+            <a href="/about-hayden/">
+              About
+            </a>
+          </div>
+          
+        
+
+      
+        
+          
+
+          
+          <div class="folder">
+            <div class="folder-toggle" data-href="/contact/">Contact</div>
+            <div class="subnav">
+            
+
+              
+              <div class="collection">
+                <a href="/new-page/">
+                  New Page
+                </a>
+              </div>
+              
+              
+            
+            </div>
+          </div>
+          
+        
+        
+
+      
+    </nav>
+  </div>
+  <!-- style below blocks out the mobile nav toggle only when nav is loaded -->
+  <style>.mobile-nav-toggle-label { display: inline-block !important; }</style>
+
+
+</div>
+        </div>
+      </header>
+
+      
+        
+          
+            
+            
+          
+        
+      
+
+
+      
+      
+      
+
+      <main id="page" role="main">
+        
+        <!--
+        --><!--
+        --><div id="content" class="main-content" data-content-field="main-content" data-collection-id="5b17018603ce642d99320ede" >
+         <!-- Create index sections -->
+
+  
+  <div id="intro" class="index-section" data-url-id="intro" data-collection-id="5b16db1b88251b408d6b0a44" data-edit-main-image="Banner">
+    <div class="promoted-gallery-wrapper"></div>
+    
+      
+        <div class="banner-thumbnail-wrapper has-description" data-content-field="main-image">
+          <div class="color-overlay"></div>
+          <figure id="thumbnail" class="loading content-fill">
+            <img data-src="https://static1.squarespace.com/static/5b16d89445776e1335dc3c12/t/5b1704e40e2e727a82def64f/1528235238730/web-developer-plano-tx-1-1200x500.jpg" data-image="https://static1.squarespace.com/static/5b16d89445776e1335dc3c12/t/5b1704e40e2e727a82def64f/1528235238730/web-developer-plano-tx-1-1200x500.jpg" data-image-dimensions="1200x500" data-image-focal-point="0.5,0.5" alt="web-developer-plano-tx-1-1200x500.jpg"  />
+          </figure>
+          <div class="desc-wrapper" data-content-field="description"><p style="white-space: pre-wrap;"> A development student of front end web </p><p style="white-space: pre-wrap;">Sunkadowell Thai</p><p style="white-space: pre-wrap;"><a href="#moreau-hayden">View Our Work</a></p></div>
+        </div>
+      
+    
+
+    <div class="index-section-wrapper page-content">
+      <div class="content-inner has-content" data-content-field="main-content">
+        <div class="sqs-layout sqs-grid-12 columns-12" data-type="page" data-updated-on="1528237807739" id="page-5b16db1b88251b408d6b0a44"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1412381143917_19852"><div class="sqs-block-content"><h1 class="text-align-center">The Key to being a successful programmer is to learn how to learn.&nbsp;</h1><p class="text-align-center">My name is Sunkadowell Thai. I am a student of COSW20 This semester. this is my final project.</p><p class="text-align-center"> </p></div></div></div></div><div class="row sqs-row"><div class="col sqs-col-4 span-4"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-caff999ce0c7f436469d"><div class="sqs-block-content">
+
+  
+
+  	
+      <div class="image-block-outer-wrapper layout-caption-below design-layout-inline">
+      
+        <div class="intrinsic" style="max-width:400.0px;">
+          
+            <div style="padding-bottom:75.0%;" class="image-block-wrapper   has-aspect-ratio" data-description="" >
+              <noscript><img src="https://static1.squarespace.com/static/5b16d89445776e1335dc3c12/t/5b170843f950b75f3b52e548/1528236105246/code_school_dribbble4_1x.png"  alt="code_school_dribbble4_1x.png"  /></noscript><img class="thumb-image" alt="code_school_dribbble4_1x.png" data-src="https://static1.squarespace.com/static/5b16d89445776e1335dc3c12/t/5b170843f950b75f3b52e548/1528236105246/code_school_dribbble4_1x.png" data-image="https://static1.squarespace.com/static/5b16d89445776e1335dc3c12/t/5b170843f950b75f3b52e548/1528236105246/code_school_dribbble4_1x.png" data-image-dimensions="400x300" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5b170843f950b75f3b52e548" data-type="image" />
+            </div>
+          
+
+          
+
+        </div>
+      
+      </div>
+    
+
+  
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1412379595434_17982"><div class="sqs-block-content"><h3 class="text-align-center">Codeschool</h3><p class="text-align-center">We learn write coding with Codeschool. they have so many step to learn and fun.&nbsp;</p></div></div></div><div class="col sqs-col-4 span-4"><div class="sqs-block image-block sqs-block-image" data-aspect-ratio="75.70977917981072" data-block-type="5" id="block-3171a77b7db18ea09ef6"><div class="sqs-block-content">
+
+  
+
+  	
+      <div class="image-block-outer-wrapper layout-caption-below design-layout-inline">
+      
+        <div class="intrinsic" style="max-width:600.0px;">
+          
+            <div style="padding-bottom:75.70977783203125%;" class="image-block-wrapper   has-aspect-ratio" data-description="" >
+              <noscript><img src="https://static1.squarespace.com/static/5b16d89445776e1335dc3c12/t/5b1709fa2b6a288d9d59d867/1528236603511/codepen+%282%29.png"  alt="codepen (2).png"  /></noscript><img class="thumb-image" alt="codepen (2).png" data-src="https://static1.squarespace.com/static/5b16d89445776e1335dc3c12/t/5b1709fa2b6a288d9d59d867/1528236603511/codepen+%282%29.png" data-image="https://static1.squarespace.com/static/5b16d89445776e1335dc3c12/t/5b1709fa2b6a288d9d59d867/1528236603511/codepen+%282%29.png" data-image-dimensions="600x400" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5b1709fa2b6a288d9d59d867" data-type="image" />
+            </div>
+          
+
+          
+
+        </div>
+      
+      </div>
+    
+
+  
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1412379595434_26226"><div class="sqs-block-content"><h3 class="text-align-center">CodePen</h3><p class="text-align-center">&nbsp;Many coding projects has started with Codepen</p></div></div></div><div class="col sqs-col-4 span-4"><div class="sqs-block image-block sqs-block-image" data-aspect-ratio="74.13249211356468" data-block-type="5" id="block-463cc42c1f0f234bbd9c"><div class="sqs-block-content">
+
+  
+
+  	
+      <div class="image-block-outer-wrapper layout-caption-below design-layout-inline">
+      
+        <div class="intrinsic" style="max-width:1280.0px;">
+          
+            <div style="padding-bottom:74.13249206542969%;" class="image-block-wrapper   has-aspect-ratio" data-description="" >
+              <noscript><img src="https://static1.squarespace.com/static/5b16d89445776e1335dc3c12/t/5b170b27758d46bb1ef5cc58/1528236844261/687474703a2f2f692e696d6775722e636f6d2f644c78386e72672e6a7067.jpg"  alt="687474703a2f2f692e696d6775722e636f6d2f644c78386e72672e6a7067.jpg"  /></noscript><img class="thumb-image" alt="687474703a2f2f692e696d6775722e636f6d2f644c78386e72672e6a7067.jpg" data-src="https://static1.squarespace.com/static/5b16d89445776e1335dc3c12/t/5b170b27758d46bb1ef5cc58/1528236844261/687474703a2f2f692e696d6775722e636f6d2f644c78386e72672e6a7067.jpg" data-image="https://static1.squarespace.com/static/5b16d89445776e1335dc3c12/t/5b170b27758d46bb1ef5cc58/1528236844261/687474703a2f2f692e696d6775722e636f6d2f644c78386e72672e6a7067.jpg" data-image-dimensions="1280x720" data-image-focal-point="0.5,0.5" data-load="false" data-image-id="5b170b27758d46bb1ef5cc58" data-type="image" />
+            </div>
+          
+
+          
+
+        </div>
+      
+      </div>
+    
+
+  
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1412379595434_26996"><div class="sqs-block-content"><h3 class="text-align-center">WorkSample</h3><p class="text-align-center">&nbsp;another aassignments has starting with Freecodecamp and Githhub</p></div></div></div></div></div>
+      </div>
+    </div>
+  </div>
+        </div><!--
+        -->
+        
+      </main>
+
+      <div id="preFooter">
+        <div class="pre-footer-inner">
+          <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Pre-Footer Content" data-type="block-field" data-updated-on="1528234726790" id="preFooterBlocks"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block socialaccountlinks-v2-block sqs-block-socialaccountlinks-v2" data-block-type="54" id="block-yui_3_17_2_1_1410291973006_4664"><div class="sqs-block-content">
+  
+<div class="sqs-blockStatus sqs-blockStatus--overlayMode" data-state="invalid">
+
+  <div class="sqs-blockStatus-disclosure"></div>
+
+  <div class="sqs-blockStatus-box">
+    <div class="sqs-blockStatus-box-title">Social Links Block</div>
+    
+      <div class="sqs-blockStatus-box-message">
+        These are example icons. Add your own social accounts by navigating to <strong>Home › Settings › Connected Accounts</strong>. Once you've connected some accounts, their icons will appear here.<br><br>You can double-click here to change the look and feel of the icons.
+        
+          <a class="sqs-blockStatus-box-kbArticleLink" href="https://support.squarespace.com/hc/articles/206543537" target="_blank">Learn more</a>
+        
+      </div>
+    
+  </div>
+
+</div>
+
+
+
+
+<div class="sqs-svg-icon--outer social-icon-alignment-center social-icons-color-black social-icons-size-extra-large social-icons-style-regular  sqs-block-is-placeholder" data-block-state="invalid">
+  <nav class="sqs-svg-icon--list">
+    <a href="" target="_blank" class="sqs-svg-icon--wrapper twitter">
+      <div>
+        <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+          <use class="sqs-use--icon" xlink:href="#twitter-icon"></use>
+          <use class="sqs-use--mask" xlink:href="#twitter-mask"></use>
+        </svg>
+      </div>
+    </a><a href="" target="_blank" class="sqs-svg-icon--wrapper facebook">
+      <div>
+        <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+          <use class="sqs-use--icon" xlink:href="#facebook-icon"></use>
+          <use class="sqs-use--mask" xlink:href="#facebook-mask"></use>
+        </svg>
+      </div>
+    </a><a href="" target="_blank" class="sqs-svg-icon--wrapper instagram">
+      <div>
+        <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+          <use class="sqs-use--icon" xlink:href="#instagram-icon"></use>
+          <use class="sqs-use--mask" xlink:href="#instagram-mask"></use>
+        </svg>
+      </div>
+    </a>
+  </nav>
+</div></div></div></div></div></div>
+        </div>
+      </div>
+
+      <footer id="footer" role="contentinfo">
+        <div class="footer-inner">
+          <div class="nav-wrapper back-to-top-nav"><nav><div class="back-to-top"><a href="#header">Back to Top</a></div></nav></div>
+          
+
+
+          
+          <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Footer Content" data-type="block-field" data-updated-on="1528234683557" id="footerBlocks"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-bed2971c3ad022f26c18"><div class="sqs-block-content"><p class="text-align-center">Powered by Sunkadowell Thai&nbsp;</p><p class="text-align-center">2018</p></div></div></div></div></div>
+        </div>
+      </footer>
+
+    </div>
+
+    <script src="https://static1.squarespace.com/static/ta/52a74d9ae4b0253945d2aee9/1009/scripts/site-bundle.js" type="text/javascript"></script>
+    <script type="text/javascript" data-sqs-type="imageloader-bootstraper">(function() {if(window.ImageLoader) { window.ImageLoader.bootstrap({}, document); }})();</script><script>Squarespace.afterBodyLoad(Y);</script><svg xmlns="http://www.w3.org/2000/svg" version="1.1" style="display:none"><symbol id="twitter-icon" viewBox="0 0 64 64"><path d="M48,22.1c-1.2,0.5-2.4,0.9-3.8,1c1.4-0.8,2.4-2.1,2.9-3.6c-1.3,0.8-2.7,1.3-4.2,1.6 C41.7,19.8,40,19,38.2,19c-3.6,0-6.6,2.9-6.6,6.6c0,0.5,0.1,1,0.2,1.5c-5.5-0.3-10.3-2.9-13.5-6.9c-0.6,1-0.9,2.1-0.9,3.3 c0,2.3,1.2,4.3,2.9,5.5c-1.1,0-2.1-0.3-3-0.8c0,0,0,0.1,0,0.1c0,3.2,2.3,5.8,5.3,6.4c-0.6,0.1-1.1,0.2-1.7,0.2c-0.4,0-0.8,0-1.2-0.1 c0.8,2.6,3.3,4.5,6.1,4.6c-2.2,1.8-5.1,2.8-8.2,2.8c-0.5,0-1.1,0-1.6-0.1c2.9,1.9,6.4,2.9,10.1,2.9c12.1,0,18.7-10,18.7-18.7 c0-0.3,0-0.6,0-0.8C46,24.5,47.1,23.4,48,22.1z"/></symbol><symbol id="twitter-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M44.7,25.5c0,0.3,0,0.6,0,0.8C44.7,35,38.1,45,26.1,45c-3.7,0-7.2-1.1-10.1-2.9 c0.5,0.1,1,0.1,1.6,0.1c3.1,0,5.9-1,8.2-2.8c-2.9-0.1-5.3-2-6.1-4.6c0.4,0.1,0.8,0.1,1.2,0.1c0.6,0,1.2-0.1,1.7-0.2 c-3-0.6-5.3-3.3-5.3-6.4c0,0,0-0.1,0-0.1c0.9,0.5,1.9,0.8,3,0.8c-1.8-1.2-2.9-3.2-2.9-5.5c0-1.2,0.3-2.3,0.9-3.3 c3.2,4,8.1,6.6,13.5,6.9c-0.1-0.5-0.2-1-0.2-1.5c0-3.6,2.9-6.6,6.6-6.6c1.9,0,3.6,0.8,4.8,2.1c1.5-0.3,2.9-0.8,4.2-1.6 c-0.5,1.5-1.5,2.8-2.9,3.6c1.3-0.2,2.6-0.5,3.8-1C47.1,23.4,46,24.5,44.7,25.5z"/></symbol><symbol id="facebook-icon" viewBox="0 0 64 64"><path d="M34.1,47V33.3h4.6l0.7-5.3h-5.3v-3.4c0-1.5,0.4-2.6,2.6-2.6l2.8,0v-4.8c-0.5-0.1-2.2-0.2-4.1-0.2 c-4.1,0-6.9,2.5-6.9,7V28H24v5.3h4.6V47H34.1z"/></symbol><symbol id="facebook-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M39.6,22l-2.8,0c-2.2,0-2.6,1.1-2.6,2.6V28h5.3l-0.7,5.3h-4.6V47h-5.5V33.3H24V28h4.6V24 c0-4.6,2.8-7,6.9-7c2,0,3.6,0.1,4.1,0.2V22z"/></symbol><symbol id="instagram-icon" viewBox="0 0 64 64"><path d="M46.91,25.816c-0.073-1.597-0.326-2.687-0.697-3.641c-0.383-0.986-0.896-1.823-1.73-2.657c-0.834-0.834-1.67-1.347-2.657-1.73c-0.954-0.371-2.045-0.624-3.641-0.697C36.585,17.017,36.074,17,32,17s-4.585,0.017-6.184,0.09c-1.597,0.073-2.687,0.326-3.641,0.697c-0.986,0.383-1.823,0.896-2.657,1.73c-0.834,0.834-1.347,1.67-1.73,2.657c-0.371,0.954-0.624,2.045-0.697,3.641C17.017,27.415,17,27.926,17,32c0,4.074,0.017,4.585,0.09,6.184c0.073,1.597,0.326,2.687,0.697,3.641c0.383,0.986,0.896,1.823,1.73,2.657c0.834,0.834,1.67,1.347,2.657,1.73c0.954,0.371,2.045,0.624,3.641,0.697C27.415,46.983,27.926,47,32,47s4.585-0.017,6.184-0.09c1.597-0.073,2.687-0.326,3.641-0.697c0.986-0.383,1.823-0.896,2.657-1.73c0.834-0.834,1.347-1.67,1.73-2.657c0.371-0.954,0.624-2.045,0.697-3.641C46.983,36.585,47,36.074,47,32S46.983,27.415,46.91,25.816z M44.21,38.061c-0.067,1.462-0.311,2.257-0.516,2.785c-0.272,0.7-0.597,1.2-1.122,1.725c-0.525,0.525-1.025,0.85-1.725,1.122c-0.529,0.205-1.323,0.45-2.785,0.516c-1.581,0.072-2.056,0.087-6.061,0.087s-4.48-0.015-6.061-0.087c-1.462-0.067-2.257-0.311-2.785-0.516c-0.7-0.272-1.2-0.597-1.725-1.122c-0.525-0.525-0.85-1.025-1.122-1.725c-0.205-0.529-0.45-1.323-0.516-2.785c-0.072-1.582-0.087-2.056-0.087-6.061s0.015-4.48,0.087-6.061c0.067-1.462,0.311-2.257,0.516-2.785c0.272-0.7,0.597-1.2,1.122-1.725c0.525-0.525,1.025-0.85,1.725-1.122c0.529-0.205,1.323-0.45,2.785-0.516c1.582-0.072,2.056-0.087,6.061-0.087s4.48,0.015,6.061,0.087c1.462,0.067,2.257,0.311,2.785,0.516c0.7,0.272,1.2,0.597,1.725,1.122c0.525,0.525,0.85,1.025,1.122,1.725c0.205,0.529,0.45,1.323,0.516,2.785c0.072,1.582,0.087,2.056,0.087,6.061S44.282,36.48,44.21,38.061z M32,24.297c-4.254,0-7.703,3.449-7.703,7.703c0,4.254,3.449,7.703,7.703,7.703c4.254,0,7.703-3.449,7.703-7.703C39.703,27.746,36.254,24.297,32,24.297z M32,37c-2.761,0-5-2.239-5-5c0-2.761,2.239-5,5-5s5,2.239,5,5C37,34.761,34.761,37,32,37z M40.007,22.193c-0.994,0-1.8,0.806-1.8,1.8c0,0.994,0.806,1.8,1.8,1.8c0.994,0,1.8-0.806,1.8-1.8C41.807,22.999,41.001,22.193,40.007,22.193z"/></symbol><symbol id="instagram-mask" viewBox="0 0 64 64"><path d="M43.693,23.153c-0.272-0.7-0.597-1.2-1.122-1.725c-0.525-0.525-1.025-0.85-1.725-1.122c-0.529-0.205-1.323-0.45-2.785-0.517c-1.582-0.072-2.056-0.087-6.061-0.087s-4.48,0.015-6.061,0.087c-1.462,0.067-2.257,0.311-2.785,0.517c-0.7,0.272-1.2,0.597-1.725,1.122c-0.525,0.525-0.85,1.025-1.122,1.725c-0.205,0.529-0.45,1.323-0.516,2.785c-0.072,1.582-0.087,2.056-0.087,6.061s0.015,4.48,0.087,6.061c0.067,1.462,0.311,2.257,0.516,2.785c0.272,0.7,0.597,1.2,1.122,1.725s1.025,0.85,1.725,1.122c0.529,0.205,1.323,0.45,2.785,0.516c1.581,0.072,2.056,0.087,6.061,0.087s4.48-0.015,6.061-0.087c1.462-0.067,2.257-0.311,2.785-0.516c0.7-0.272,1.2-0.597,1.725-1.122s0.85-1.025,1.122-1.725c0.205-0.529,0.45-1.323,0.516-2.785c0.072-1.582,0.087-2.056,0.087-6.061s-0.015-4.48-0.087-6.061C44.143,24.476,43.899,23.682,43.693,23.153z M32,39.703c-4.254,0-7.703-3.449-7.703-7.703s3.449-7.703,7.703-7.703s7.703,3.449,7.703,7.703S36.254,39.703,32,39.703z M40.007,25.793c-0.994,0-1.8-0.806-1.8-1.8c0-0.994,0.806-1.8,1.8-1.8c0.994,0,1.8,0.806,1.8,1.8C41.807,24.987,41.001,25.793,40.007,25.793z M0,0v64h64V0H0z M46.91,38.184c-0.073,1.597-0.326,2.687-0.697,3.641c-0.383,0.986-0.896,1.823-1.73,2.657c-0.834,0.834-1.67,1.347-2.657,1.73c-0.954,0.371-2.044,0.624-3.641,0.697C36.585,46.983,36.074,47,32,47s-4.585-0.017-6.184-0.09c-1.597-0.073-2.687-0.326-3.641-0.697c-0.986-0.383-1.823-0.896-2.657-1.73c-0.834-0.834-1.347-1.67-1.73-2.657c-0.371-0.954-0.624-2.044-0.697-3.641C17.017,36.585,17,36.074,17,32c0-4.074,0.017-4.585,0.09-6.185c0.073-1.597,0.326-2.687,0.697-3.641c0.383-0.986,0.896-1.823,1.73-2.657c0.834-0.834,1.67-1.347,2.657-1.73c0.954-0.371,2.045-0.624,3.641-0.697C27.415,17.017,27.926,17,32,17s4.585,0.017,6.184,0.09c1.597,0.073,2.687,0.326,3.641,0.697c0.986,0.383,1.823,0.896,2.657,1.73c0.834,0.834,1.347,1.67,1.73,2.657c0.371,0.954,0.624,2.044,0.697,3.641C46.983,27.415,47,27.926,47,32C47,36.074,46.983,36.585,46.91,38.184z M32,27c-2.761,0-5,2.239-5,5s2.239,5,5,5s5-2.239,5-5S34.761,27,32,27z"/></symbol></svg>
+
+  </body>
+</html>
